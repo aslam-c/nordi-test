@@ -22,3 +22,4 @@ jobs:
           script: |
             whoami
             ls -a
+            mkdir /home/ubuntu/nordi
